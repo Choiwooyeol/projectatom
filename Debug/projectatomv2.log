@@ -1,0 +1,5 @@
+﻿  소스.c
+c:\users\tak\documents\visual studio 2015\projects\projectatomv2\projectatomv2\소스.c(1193): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+c:\users\tak\documents\visual studio 2015\projects\projectatomv2\projectatomv2\소스.c(982): warning C4715: 'pick': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  projectatomv2.vcxproj -> C:\Users\Tak\documents\visual studio 2015\Projects\projectatomv2\Debug\projectatomv2.exe
+  projectatomv2.vcxproj -> C:\Users\Tak\documents\visual studio 2015\Projects\projectatomv2\Debug\projectatomv2.pdb (Full PDB)
